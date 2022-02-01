@@ -6,4 +6,5 @@ export class Event {
   date: string = '';
   time: string = '';
   location: string = '';
+  // location: Location = new Location();
 }
